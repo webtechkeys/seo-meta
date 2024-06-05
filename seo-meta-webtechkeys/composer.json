@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Webtechkeys\\SEO_Meta\\": "includes/"
+        }
+    },
+    "require": {
+        "php": ">=7.4^"
+    }
+}
