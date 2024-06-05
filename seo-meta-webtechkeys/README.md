@@ -4,7 +4,7 @@
 Easily optimize your WordPress website for search engines with SEO Meta Webtechkeys. Add multiple relevant keywords, manage canonical links to avoid duplicate content penalties, and improve your site's ranking potential.
 
 ## Installation
-    There are two ways to install SEO Meta Webtechkeys:
+There are two ways to install SEO Meta Webtechkeys:
 
 ### Method 1: Manual Upload
 
