@@ -1,6 +1,6 @@
 === SEO Meta Webtechkeys ===
 Contributors: webtechkeys
-Tags: seo, meta tags, header
+Tags: seo, meta tags, header, keywords, meta keywords, meta description
 Requires at least: 5.4
 Tested up to: 6.2
 Stable tag: 1.0
@@ -28,8 +28,8 @@ Edit any post or page, and fill in the fields in the "SEO Meta Tags" meta box on
 
 == Screenshots ==
 
-1. Meta box in the editor
-2. Meta tags in the header
+1. Meta box in the editor - Screenshot-1.png
+2. Meta tags in the header - Screenshot-2.png
 
 == Changelog ==
 
